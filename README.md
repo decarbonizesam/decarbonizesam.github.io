@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Decarbonize Plants
-description: Clean manufacturing operations test
+Decarbonize Plants
+Clean manufacturing operations
