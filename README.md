@@ -1,2 +1,0 @@
-Decarbonize Plants
-Clean manufacturing operations
